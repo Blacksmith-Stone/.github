@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Website: https://blacksmith-stone.github.io/Homepage/
+We are small indie studio located in Poland.
+We are making websites, apps, and games!
+
+Our website: https://blacksmith-stone.github.io/Homepage/
 
 
 <!--
